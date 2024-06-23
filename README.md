@@ -1,16 +1,14 @@
-## Hi there 👋
+<img src="https://drive.google.com/uc?export=view&id=1aeBzGO1fH0cuw-aoSK6e0T3c-C8L6WnU" alt="Thumbnail">
 
-<!--
-**johnw1llliam/johnw1llliam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<hr/>
 
-Here are some ideas to get you started:
+<img src="https://drive.google.com/uc?export=view&id=1M54jNqJtp_g3ugsNZFy2_BImmtt3oOPR" alt="Thumbnail">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://drive.google.com/uc?export=view&id=189PvHwot9axv0XQu20ZrX_Pw9Z6MHO07" alt="Thumbnail">
+
+<hr/>
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=johnw1llliam&show_icons=true&theme=yeblu&bg_color=00000000)
+<br/>
+<br/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=johnw1llliam&theme=yeblu&bg_color=00000000)](https://github.com/anuraghazra/github-readme-stats)
